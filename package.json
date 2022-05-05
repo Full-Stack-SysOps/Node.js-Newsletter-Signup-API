@@ -1,0 +1,33 @@
+{
+  "name": "newsletter-signup",
+  "version": "1.0.0",
+  "description": "A signup app which takes user details as input and saves in an external server using API",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Full-Stack-Sys-Ops/Node.js-Newsletter-Signup-API.git"
+  },
+  "keywords": [
+    "Node.js",
+    "Express",
+    "API",
+    "Bootstrap",
+    "Heroku",
+    "mailchimp"
+  ],
+  "author": "Aveek Mukherjee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Full-Stack-Sys-Ops/Node.js-Newsletter-Signup-API/issues"
+  },
+  "homepage": "https://github.com/Full-Stack-Sys-Ops/Node.js-Newsletter-Signup-API#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1",
+    "git": "^0.1.5",
+    "heroku": "^7.60.2"
+  }
+}
